@@ -1,9 +1,9 @@
 {
-  "username": "YOur UserName",
+  "username": "Your Username",
   "password": "Your Password",
-  "botName": "32",
+  "botName": "32", 
   "learningInstanceName": "CypressInstance01",
   "customField": {
-    "name": "Test16"
+    "name": "Test16" 
   }
 }
